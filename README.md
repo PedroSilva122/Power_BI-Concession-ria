@@ -99,6 +99,8 @@ Destinado aos carros e marcas
 
 Destinado aos países vendidos
 
+- Scroller das marcas com seus valores e quantos % esta acima ou abaixo de sua respectiva meta
+
 - Segmentação de dados: Marca
 
 - Logo das marcas
